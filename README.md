@@ -2,6 +2,8 @@
 
 Windows 화면 한구석에서 생활하면서 사용자의 건강 루틴을 챙겨주는 작은 데스크톱 펫입니다.
 
+공식 프로젝트/캐릭터 명칭은 **`nag_cat`(내그캣)**이고, 캐릭터의 닉네임은 **Nagi(나기)**입니다.
+
 평소에는 조용히 잠들어 있다가, 일어나기·물 마시기·스트레칭 같은 건강 알림이 필요할 때 **현재 작업의 Focus를 빼앗지 않고** 깨어나 말풍선으로 알려주는 것을 목표로 합니다.
 
 향후 사내 LLM API를 연결해 자연스러운 대화, 사용자별 건강 루틴 등록/수정, 고양이 말투 커스터마이징을 지원할 예정입니다.
@@ -27,8 +29,9 @@ Windows 화면 한구석에서 생활하면서 사용자의 건강 루틴을 챙
 ## Documents
 
 - [Product Design v1.0](docs/DESIGN.md)
+- [Naming](docs/NAMING.md)
 - Character Master Reference v1: `assets/cat/master/nag_cat_character_sheet_v1.png`
 
 ---
 
-`nag_cat` = 내그캣. 작고 조용하지만 꾸준히 건강을 챙기는 잔소리 고양이.
+`nag_cat` = 내그캣. Nagi는 작고 조용하지만 꾸준히 건강을 챙기는 잔소리 고양이.
